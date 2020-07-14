@@ -1841,7 +1841,7 @@ li {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #9b59b6;
+  background-color: rgb(53, 53, 53);
   background-image: -webkit-gradient(
       linear,
       left top,
@@ -2251,7 +2251,7 @@ li {
     line-height: 53px;
   }
   .nav-menu {
-    background-color: #9b59b6;
+    background-color: rgb(53, 53, 53);
   }
 }
 
