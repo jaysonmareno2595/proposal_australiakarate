@@ -1846,11 +1846,11 @@ li {
       linear,
       left top,
       left bottom,
-      from(#00a1cb),
-      to(#00a1cb)
+      from(rgb(53, 53, 53)),
+      to(rgb(53, 53, 53))
     ),
     url("https://uploads-ssl.webflow.com/5be8dae11f965b45fe73c474/5be8dae11f965b7a0773c481_wiggle.svg");
-  background-image: linear-gradient(180deg, #00a1cb, #00a1cb),
+  background-image: linear-gradient(180deg, rgb(53, 53, 53), rgb(53, 53, 53)),
     url("https://uploads-ssl.webflow.com/5be8dae11f965b45fe73c474/5be8dae11f965b7a0773c481_wiggle.svg");
   background-position: 0px 0px, 0px 0px;
   background-size: auto, 60px;
@@ -1994,7 +1994,7 @@ li {
   margin-top: 46px;
   margin-right: auto;
   margin-left: auto;
-  background-color: #00a1cb;
+  background-color: rgb(53, 53, 53);
 }
 
 .timeline-wrapper {
@@ -2092,7 +2092,7 @@ li {
 
 .text-block {
   margin-top: 9px;
-  color: #00a1cb;
+  color: rgb(53, 53, 53);
   font-size: 16px;
 }
 
@@ -2119,7 +2119,7 @@ li {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  border: 2px solid #00a1cb;
+  border: 2px solid rgb(53, 53, 53);
   border-radius: 5px;
   background-color: #f5f5f5;
   box-shadow: 1px 1px 6px 0 rgba(0, 0, 0, 0.09);
@@ -2186,7 +2186,7 @@ li {
 }
 
 .price {
-  color: #00a1cb;
+  color: rgb(53, 53, 53);
   font-weight: 400;
 }
 
@@ -2225,7 +2225,7 @@ li {
   left: 0px;
   top: 0px;
   right: 0px;
-  background-color: #00a1cb;
+  background-color: rgb(53, 53, 53);
   color: #fff;
 }
 
@@ -2243,7 +2243,7 @@ li {
 
 .container {
   padding-top: 6px;
-  background-color: #00a1cb;
+  background-color: rgb(53, 53, 53);
 }
 
 @media screen and (max-width: 991px) {
